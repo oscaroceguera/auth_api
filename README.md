@@ -1,4 +1,4 @@
-#Tutorial: Restful API con NodeJs por Noderos.com
+#Tutorial: Autenticación por Token en NodeJs por Noderos.com
 
 Licencia Creative Commons 4.0
 
